@@ -1,0 +1,12 @@
+ Volume in drive D is User Data
+ Volume Serial Number is 60C2-1B89
+
+ Directory of D:\Jenkins\test_jenkins
+
+12/28/2020  11:17 PM    <DIR>          .
+12/28/2020  11:17 PM    <DIR>          ..
+12/28/2020  11:17 PM                 0 index.ntml
+12/28/2020  10:58 PM                44 README.md
+12/28/2020  11:05 PM                22 test_job.py
+               3 File(s)             66 bytes
+               2 Dir(s)  209,957,634,048 bytes free
